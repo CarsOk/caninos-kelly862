@@ -1,0 +1,129 @@
+*{
+    padding:0px;
+    margin:0px;
+    
+       
+}
+body{
+    background-color:#E1E1E1
+
+}
+
+#contenedor{
+    border: 1px solid black;
+    width: 750px;
+    height: 625px;
+    margin: auto;
+    
+}
+.imagen{
+    width: 750px;
+    
+}
+
+.logo{
+    float: right;
+    margin-right: 10px;
+    margin-top: 1px;
+}
+#AVON{
+    width: 750PX;
+    margin: auto;
+    margin-top:20px;
+    margin-bottom: 20px; 
+    
+       
+}
+
+header nav{
+    text-align: center;
+    background-color: #F033FF;
+   
+}
+header nav ul li{
+display: inline-block;
+padding:10px;
+}
+header nav ul li a{
+    text-decoration: none;
+    font-family: fantasy;
+    font-size: 20px;
+    color:black;
+    font-weight: bold;  
+}
+
+section{
+    margin-top: 10px;
+    border: 1px solid black;
+    width:60%;
+    height:59%;
+    float:left;
+    margin-bottom: 1%;
+    margin-top: 10px;
+    left: rith;
+}
+article{
+    border:1px solid black;
+    float: left;
+    width:100%;
+    height: 48%;
+    margin-left: 0px;
+    background:yellow;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 2%;
+     
+}
+#alternativo{
+    border: 1px solid orange;
+     float: right;
+    width: 25%;
+    height: 35%;
+    background:white;
+    border-radius: 10px 10px 10px 10px;
+    
+}
+.article-texto{
+    width: 60%;
+
+
+}
+  
+.tituform{
+    text-align: center;
+
+}
+
+
+
+
+
+#formulario{
+    background-color:#A99AA1;
+    text-align: center;
+
+
+}
+
+aside{
+    border:1px solid black;
+    float: left;
+    width:37%;
+    height: 59%;
+    margin-left: 15px;
+    background-color:#A99AA1;
+    margin-top: 10px;
+   
+    
+    
+}
+
+footer{
+    clear: left;
+    width: 100%;
+    height:15%;
+    background-color: #FF33EC;
+    border-radius: 10px 10px 0px 0px;
+    margin :0px;
+    margin:auto;
+
+}
